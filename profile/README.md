@@ -29,7 +29,7 @@ Our work spans confidential computing (SGX/TDX/SEV), system auditing and provena
 
 | Repository | Paper | Venue |
 | :--- | :--- | :--- |
-| [Tirith](https://github.com/ASTERISC-Release/Tirith) | Code for our CCS'26 paper | ACM CCS 2026 |
+| [Tirith](https://github.com/ASTERISC-Release/Tirith) | You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers | ACM CCS 2026 |
 | [Appare](https://github.com/ASTERISC-Release/Appare) | Efficient Fine-Grained Kernel Auditing using Augmented Reference Behavior Analysis and Virtualized Selective Tracing | IEEE S&P 2026 |
 | [Erebor](https://github.com/ASTERISC-Release/Erebor) | Erebor: A Drop-In Sandbox Solution for Private Data Processing in Untrusted Confidential Virtual Machines | ACM EuroSys 2025 |
 | [HitchHiker](https://github.com/ASTERISC-Release/HitchHiker) | The HitchHiker's Guide to High-Assurance System Observability Protection with Fast Permission Switches | ACM CCS 2024 |
